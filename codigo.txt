@@ -1,5 +1,10 @@
 linea 1
 
 funcion(){
+<<<<<<< HEAD
   println("Hola mundo")
+=======
+
+println("Yo estuve aqui");
+>>>>>>> Kumul
 }
